@@ -1,1 +1,0 @@
-# flatfair-coding-challenge
